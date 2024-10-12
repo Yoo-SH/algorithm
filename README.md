@@ -65,3 +65,13 @@
 
 ## 3. `충분히 테스트 해라.`
 구현단계로 갈수록 잘못된 부분을 수정하는데 드는 비용은 점차 커지므로 의사 코드가 미리 생각해본 테스트 케이스를 통과할 수 있을지를 고민해봐야한다. 이후, 코드가 대부분의 테스트 케이스를 통과할 수 있을 것 같을 떄 구현을 시작하면 된다.
+
+
+## 참고 레퍼런스
+
+- [📚한 장으로 보는 알고리즘 공부 순서📚](https://velog.io/@ngngs/%ED%95%9C-%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [[Algorithm] 알고리즘 공부 시작 방법 및 순서](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)
+- [알고리즘 공부를 어떻게 시작해야할까? (Feat. 백준 500문제 푼 기념으로 적는 PS 회고록)](https://steady-coding.tistory.com/260)
+- [🧑‍💻 개발자로 취업하기 위한 알고리즘 공부법 2강 공부방법](https://openingsound.tistory.com/117)
+- [알고리즘 코딩테스트 입문자를 위한 공부법](https://velog.io/@skiende74/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B3%B5%EB%B6%80%EB%B2%95)
+- [코딩 테스트 4단계 공부법](https://brunch.co.kr/@jihyun-um/41)
