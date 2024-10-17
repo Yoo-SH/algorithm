@@ -13,7 +13,7 @@ def printGraph(graph : dict):
     for v in graph:
         print(f"{v} : {graph[v]}")
 
-# 스택을 이용한 DFS 함수
+# 큐을 이용한 BFS 함수
 def stack_dfs(graph : dict):
     visited = set() # 방문한 노드 저장 집합(중복 방지)
     queue = [0] 
