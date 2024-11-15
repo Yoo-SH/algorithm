@@ -9,7 +9,7 @@ def heap_sort(arr) -> None:
         heapify(arr, 0, i) # 힙을 정렬해줌
 
 
-    pass
+
 
 def heap_build(unsorted, heap_size):
     for i in range(heap_size // 2, -1, -1):
