@@ -9,8 +9,6 @@
 
 ## precode
 1. 문자열 T와 P를 입력받는다.
-2. KMP 알고리즘을 이용하여 P가 T에 몇 번 나타나는지, 그 위치를 출력한다.
-
 * 자료구조
 * 알고리즘
     - KMP 알고리즘
@@ -20,4 +18,4 @@
     - `O(N+N)`
 
 * 참고자료
-    - [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6)
+    - [KMP : 문자열 검색 알고리즘](https://bowbowbow.tistory.com/6) 
